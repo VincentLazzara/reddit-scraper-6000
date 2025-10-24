@@ -1,0 +1,10 @@
+praw
+pandas
+nltk
+spacy
+scikit-learn
+matplotlib
+seaborn
+jupyter
+wordcloud
+nbformat
